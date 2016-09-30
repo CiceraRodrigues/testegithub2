@@ -1,2 +1,3 @@
-print("Hello,Cicera!")
+cicera=input("cicera")
+print ("Hello,"+nome)
 
