@@ -1,3 +1,4 @@
 cicera=input("cicera")
-print ("Hello,"+nome)
+print ("Hello,"+nome +". Bom dia!")
+print ("Até mais!")
 
